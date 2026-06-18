@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sakthivel%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Student%20%7C%20Flutter%20Developer%20%7C%20Building%20Practical%20Apps&descAlignY=62&descSize=16"/>
 
 <p align="center">
@@ -28,42 +27,53 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```dart
-class SakthivelV {
-  final String name     = "Sakthivel V";
-  final String location = "Srivilliputhur, Tamil Nadu, India";
-  final String degree   = "B.E – Electronics & Communication Engineering";
-  final String college  = "Kongu Engineering College (2023 – Present)";
-  final double cgpa     = 6.85;
+🎓 I'm an Electronics & Communication Engineering student who fell in love with building things that actually *work* — whether that's a Flutter app, a sensor-driven IoT system, or a clean line of HTML & CSS. I like turning rough ideas into small, practical, user-friendly tools.
 
-  final List<String> stack = [
-    "Flutter / Dart",
-    "Android Development",
-    "HTML", "CSS", "JavaScript",
-    "Embedded Systems",
-    "Git & GitHub",
-  ];
+<br/>
 
-  final List<String> currentlyLearning = [
-    "Advanced Flutter & State Management",
-    "Full Stack Web Development",
-    "IoT & Sensor Integration",
-  ];
+<table>
+  <tr>
+    <td>🧑‍🎓 <b>Degree</b></td>
+    <td>B.E – Electronics & Communication Engineering</td>
+  </tr>
+  <tr>
+    <td>🏫 <b>College</b></td>
+    <td>Kongu Engineering College (2023 – Present)</td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Srivilliputhur, Tamil Nadu, India</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>CGPA</b></td>
+    <td>6.85</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>Building With</b></td>
+    <td>Flutter / Dart, Android, HTML, CSS, JavaScript, Embedded Systems</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Currently Learning</b></td>
+    <td>Advanced Flutter & State Management, Full Stack Web Dev, IoT & Sensor Integration</td>
+  </tr>
+  <tr>
+    <td>💡 <b>Fun Fact</b></td>
+    <td>I built a smart home system at a hackathon using sensors!</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Motto</b></td>
+    <td><i>"Build things that are practical, useful & user-friendly."</i></td>
+  </tr>
+</table>
 
-  final List<String> interests = [
-    "Software Development",
-    "Mobile App Development",
-    "Web Development",
-    "IoT & Smart Systems",
-  ];
+<br/>
 
-  final String funFact =
-    "I built a smart home system at a hackathon with sensors!";
-
-  String motto() =>
-    "Build things that are practical, useful & user-friendly.";
-}
-```
+**🌟 Interests:**
+&nbsp;
+![Software Development](https://img.shields.io/badge/-Software%20Development-70A5FD?style=flat-square&logoColor=white)
+![Mobile App Development](https://img.shields.io/badge/-Mobile%20App%20Development-BF91F3?style=flat-square&logoColor=white)
+![Web Development](https://img.shields.io/badge/-Web%20Development-38BDAE?style=flat-square&logoColor=white)
+![IoT & Smart Systems](https://img.shields.io/badge/-IoT%20%26%20Smart%20Systems-F7B731?style=flat-square&logoColor=white)
 
 <br clear="right"/>
 
